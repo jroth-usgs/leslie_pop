@@ -1,5 +1,10 @@
 # leslie_pop
-A python implementation of a common Leslie matrix population model
+
+##############################################################################################
+
+Brief Summary:
+
+A python implementation of a common Leslie matrix population model.
 
 1.) Reads in a .pop file containing fecundity and survival rates for population age classes.
 
@@ -9,6 +14,8 @@ A python implementation of a common Leslie matrix population model
 
 4.) Produces plots and statistics of populations over time
 
+################################################################################################
+
 Future Development:
 
 1.) Include density dependance
@@ -16,3 +23,9 @@ Future Development:
 2.) Incorporate spatial components
 
 3.) Make GUI
+
+################################################################################################
+
+Detailed Explanation:
+
+Its a model...
